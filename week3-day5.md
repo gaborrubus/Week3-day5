@@ -1,5 +1,5 @@
 ---
-date: 10.03.2023, Friday - day 10
+date: 10.03.2023, Friday 
 author: Gabor Szederkenyi
 next-author: Seyedhamed Tahebi
 ---
