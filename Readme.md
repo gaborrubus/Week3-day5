@@ -4,11 +4,6 @@ author: Gabor Szederkenyi
 next-author: Seyedhamed Tahebi
 ---
 
-## Checklist
-
-- [ ] update `README.md`
-- [ ] check `README.md` preview
-- [ ] check preview of this page
 
 Session 10
 
