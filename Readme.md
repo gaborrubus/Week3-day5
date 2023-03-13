@@ -62,7 +62,9 @@ JS Callback functions
 
 ## Attendance
 
-<>
-![10.03.2023](/Users/gaborszederkenyi/Desktop/screenshots/bo-web-23-2-2023-03-10.png)
-(The above link doesn't lead to anything. It is just an example.)
+<img width="1680" alt="bo-web-23-2-2023-03-10" src="https://user-images.githubusercontent.com/125888791/224674963-ed2dc41b-a311-4a47-900c-0d988e99ade5.png">
+
+
+![10.03.2023]()
+
 # Week3-day5
